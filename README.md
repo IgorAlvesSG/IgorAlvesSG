@@ -5,7 +5,7 @@
  <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorAlvesSG&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Harrison&layout=compact&langs_count=16&theme=outrun"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAlvesSG&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 <br>
 
@@ -32,9 +32,7 @@ igor-alves-silva-goes
 ">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/w_harrison17/">
-      <img width="25" src="instagram.png">
-    </a>
+    
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
