@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!<br>My name is Igor, Welcome to my profile!<br><br>Brazilian Student 🇧🇷;<br>🎂 19 Years;<br> 👨‍💻 He/Him;<br>
+Hello World!<br>My name is Igor, Welcome to my profile!<br><br>Brazilian Student 🇧🇷;<br>🎂 20 Years;<br> 👨‍💻 He/Him;<br>
 
 
 ## 🌐 Socials:
