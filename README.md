@@ -6,7 +6,7 @@
 
 <ul>
  <li> Brazilian Student & Dev 🇧🇷</li>
- <li> 20 anos 🎂</li>
+ <li> 21 anos 🎂</li>
  <li> He/Him 👨‍💻</li>
 </ul>
 
